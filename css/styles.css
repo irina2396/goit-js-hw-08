@@ -20,7 +20,7 @@ ol {
     flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
-    padding: 30px;
+    padding: 50px;
 }
 
 .gallery-item {
